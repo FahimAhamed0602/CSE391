@@ -1,14 +1,15 @@
-# Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio Responsive Complete
+# Fahim Ahamed – Portfolio
 
-- Responsive Personal Portfolio Website HTML CSS & JavaScript.
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+## Portfolio Responsive Complete
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+- A fully responsive portfolio website built with HTML, CSS, and JavaScript.
+- Features smooth scrolling and interactive animations.
+- Smooth scrolling in each section.Designed with a Mobile-First approach for optimal performance across all devices.
+- Designed with a Mobile-First approach for optimal performance across all devices.
+- Showcases my skills, projects, and professional journey with a clean and modern UI.
 
-![preview img](/preview.png)
+
+
+
+
 
